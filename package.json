@@ -1,0 +1,16 @@
+{
+  "name": "anhhadesdz-sunwin",
+  "version": "1.0.0",
+  "description": "Server dự đoán Tài Xỉu Sunwin - 100 lớp phân tích (biet/cầu/rồng-hổ/trend/score/pattern/markov/ensemble)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.7.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
